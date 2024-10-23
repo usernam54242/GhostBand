@@ -76,9 +76,8 @@
 
 <section id="galeria">
     <h2>Galería</h2>
-    <img src="https://example.com/ghost1.jpg" alt="Ghost Image 1" class="band-image">
-    <img src="https://example.com/ghost2.jpg" alt="Ghost Image 2" class="band-image">
-    <img src="https://example.com/ghost3.jpg" alt="Ghost Image 3" class="band-image">
+    <img src="https://wikirock.net/wp-content/uploads/2021/06/1481060.jpg" alt="Ghost Image 1" class="band-image">
+    <img src="https://i.pinimg.com/736x/d0/1f/76/d01f76dbfb8dcee6c20f89caf2fc88fe.jpg" alt="Ghost Image 2" class="band-image">
 </section>
 
 <section id="contacto">
