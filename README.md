@@ -43,6 +43,11 @@
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
+        .video {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
     </style>
 </head>
 <body>
@@ -55,6 +60,7 @@
     <a href="#biografia">Biografía</a>
     <a href="#discografia">Discografía</a>
     <a href="#galeria">Galería</a>
+    <a href="#videos">Videos</a>
     <a href="#contacto">Contacto</a>
 </nav>
 
@@ -78,6 +84,14 @@
     <h2>Galería</h2>
     <img src="https://wikirock.net/wp-content/uploads/2021/06/1481060.jpg" alt="Ghost Image 1" class="band-image">
     <img src="https://i.pinimg.com/736x/d0/1f/76/d01f76dbfb8dcee6c20f89caf2fc88fe.jpg" alt="Ghost Image 2" class="band-image">
+</section>
+
+<section id="videos">
+    <h2>Videos</h2>
+    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/u9DV1eHQpcA" title="Ghost - Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/7Gr63DiEUxw" title="Ghost - Video 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/-0Ao4t_fe0I" title="Ghost - Video 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/VqoyKzgkqR4" title="Ghost - Video 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
 
 <section id="contacto">
